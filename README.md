@@ -72,7 +72,7 @@ public class ExampleApplication extends Application implements SLTracker.Delegat
 }
 ```
 
-Искользование
+Использование
 -------------
 
 Событие происходит только один раз
