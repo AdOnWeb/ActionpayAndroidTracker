@@ -44,7 +44,7 @@ public class ExampleApplication extends Application implements SLTracker.Delegat
     super.onCreate();
 
     // Инициализируем параметры трэкера
-    SLTracker tracker = SLTracker.init("<my_app_id>", getApplicationContext());
+    SLTracker tracker = SLTracker.init("<my_app_id>", "<personal_install_target_code>", getApplicationContext());
     // Установить делегат для контроля цикла обработки событий
     tracker.setDelegate(this);
     // Установим время автоматической отсылки событий
