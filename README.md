@@ -27,7 +27,7 @@ allprojects {
 ```groovy
 dependencies {
   // ...
-  compile 'ru.actionpay.tracker:SmartTracker:0.1@aar'
+  compile 'ru.actionpay.tracker:SmartTracker:0.1.+@aar'
   // ...
 }
 ```
