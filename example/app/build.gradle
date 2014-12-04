@@ -23,5 +23,5 @@ dependencies {
   compile fileTree(dir: 'libs', include: ['*.jar'])
   compile 'com.google.android.gms:play-services:4.2.42'
   compile 'com.android.support:appcompat-v7:19.+'
-  compile 'ru.actionpay.tracker:SmartTracker:0.1@aar'
+  compile 'ru.actionpay.tracker:SmartTracker:0.1.+@aar'
 }

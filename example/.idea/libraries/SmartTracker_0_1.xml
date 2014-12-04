@@ -3,7 +3,6 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/ru.actionpay.tracker/SmartTracker/0.1/res" />
       <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/ru.actionpay.tracker/SmartTracker/0.1/classes.jar!/" />
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/ru.actionpay.tracker/SmartTracker/0.1/libs/annotations.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
